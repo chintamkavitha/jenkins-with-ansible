@@ -4,5 +4,5 @@
 
 172.31.47.182 ansible_user=ec2-user ansible_port=22
 
-172.31.33.245 ansible_user=ec2-user ansible_port=22
+#172.31.33.245 ansible_user=ec2-user ansible_port=22
 172.31.42.181 ansible_user=ec2-user ansible_port=22 
